@@ -1,5 +1,6 @@
 # Estoque
-**Este projeto foi desenvolvido no mundo onde não existia IA.**Script para gerenciar o estoque, desenvolvido em PHP. Ele permite a importação de dados de produtos a partir de arquivos XML, facilitando o cadastro e controle de itens no estoque para fins especificos.
+
+Script para gerenciar o estoque, desenvolvido em PHP. Permite a importação de dados de produtos a partir de arquivos XML, facilitando o cadastro e controle de itens no estoque para fins especificos.
 
 ## Funcionalidades
 
