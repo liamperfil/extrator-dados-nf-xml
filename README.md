@@ -1,6 +1,6 @@
-# Estoque
+# Extrator de dados NF XML 
 
-Script para gerenciar o estoque, desenvolvido em PHP. Permite a importação de dados de produtos a partir de arquivos XML, facilitando o cadastro e controle de itens no estoque para fins especificos.
+Script para importar dados das notas fiscais para o banco de dados, desenvolvido em PHP. Permite a importação de dados de produtos a partir de arquivos XML, facilitando o cadastro e controle de itens para fins estratégicos.
 
 ## Funcionalidades
 
@@ -41,5 +41,10 @@ Script para gerenciar o estoque, desenvolvido em PHP. Permite a importação de 
 ## Observações
 
 * A aplicação espera que os arquivos XML sigam um formato específico, conforme o layout da Nota Fiscal Eletrônica (NF-e).
-* Há sugestões de usar CSV para importação manual e OpenDocument Spreadsheet para exportação, caso necessário.
+* Sugiro usar CSV para importação manual da planilha para o banco de dados.
+* Sugiro usar OpenDocument Spreadsheet para exportação do banco de dados para a planilha.
 * A importação via CSV requer a configuração do modo Estados Unidos (ponto como separador decimal e sem separador de milhar).
+
+## Autoria
+
+Desenvolvido por **Jean Lima**
